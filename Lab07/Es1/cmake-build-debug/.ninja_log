@@ -1,0 +1,8 @@
+# ninja log v5
+14	229	6927460744644705	CMakeFiles/Es1.dir/inv.c.obj	36f99fbfeb5cb003
+2	91	6927653076867991	CMakeFiles/Es1.dir/gdr.c.obj	8fa0510fcf117760
+2	103	6928442686802208	CMakeFiles/Es1.dir/pg.c.obj	df7d9871aea8215
+1	89	6928460009461833	CMakeFiles/Es1.dir/equipArray.c.obj	5c5bc76181cebebb
+11	120	6928442686958416	CMakeFiles/Es1.dir/pgList.c.obj	15839f6a0758e92c
+2	90	6928456945801385	CMakeFiles/Es1.dir/invArray.c.obj	32e82fb86eb7f158
+89	208	6928460010555585	Es1.exe	2aac0acd3c9af268

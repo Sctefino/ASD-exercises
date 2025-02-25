@@ -1,0 +1,10 @@
+# ninja log v5
+191	381	6927297847004852	Es3.exe	73c1d9d792fa2e6f
+1	143	7234367325159210	build.ninja	1e5ebfacac8fb6c1
+24	177	6927297844817857	CMakeFiles/Es3.dir/inventario.c.obj	8a1f25eef560ab96
+3	184	6927297844974061	CMakeFiles/Es3.dir/client.c.obj	f555e1bce61022eb
+34	191	6927297844974061	CMakeFiles/Es3.dir/personaggi.c.obj	28d125a5c4dc5d26
+4	264	7234367974405125	CMakeFiles/Es3.dir/client.c.obj	fae2f99c60f789f0
+54	284	7234367974600552	CMakeFiles/Es3.dir/inventario.c.obj	ebbadcd84668bdb0
+17	302	7234367974790536	CMakeFiles/Es3.dir/personaggi.c.obj	1f1807c1da78c4b8
+302	514	7234367976840523	Es3.exe	73c1d9d792fa2e6f
